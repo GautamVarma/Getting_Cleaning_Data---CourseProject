@@ -1,6 +1,6 @@
 # Getting_Cleaning_Data---CourseProject
 ###Overview
-#### This course project is about the collecting and cleaning raw files to generate a clean  final dataset.
+This course project is about the collecting and cleaning raw files to generate a clean  final dataset.
 We have used data from the following link for this project 
 https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip 
 
